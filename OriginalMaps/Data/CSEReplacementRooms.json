@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Library",
+    "label": "Library",
+    "floor": 0,
+    "x0": -10,
+    "x1": 14,
+    "z0": 36.5,
+    "z1": 43.8,
+    "doorX": 2.0,
+    "doorZ": 36.5
+  },
+  {
+    "id": "FOCLab",
+    "label": "FOC Lab",
+    "floor": 0,
+    "x0": 1,
+    "x1": 14,
+    "z0": 26.2,
+    "z1": 33.5,
+    "doorX": 7.5,
+    "doorZ": 33.5
+  },
+  {
+    "id": "ReadingRoom",
+    "label": "Reading Room",
+    "floor": 0,
+    "x0": -10,
+    "x1": -2,
+    "z0": 26.2,
+    "z1": 33.5,
+    "doorX": -6.0,
+    "doorZ": 33.5
+  },
+  {
+    "id": "CS1",
+    "label": "CS1",
+    "floor": 1,
+    "x0": -10,
+    "x1": -2,
+    "z0": 26.2,
+    "z1": 33.5,
+    "doorX": -6.0,
+    "doorZ": 33.5
+  },
+  {
+    "id": "CS2",
+    "label": "CS2",
+    "floor": 1,
+    "x0": 1,
+    "x1": 14,
+    "z0": 26.2,
+    "z1": 33.5,
+    "doorX": 7.5,
+    "doorZ": 33.5
+  },
+  {
+    "id": "CS3",
+    "label": "CS3",
+    "floor": 1,
+    "x0": -10,
+    "x1": -2,
+    "z0": 36.5,
+    "z1": 43.8,
+    "doorX": -6.0,
+    "doorZ": 36.5
+  },
+  {
+    "id": "CS4",
+    "label": "CS4",
+    "floor": 1,
+    "x0": -2,
+    "x1": 6,
+    "z0": 36.5,
+    "z1": 43.8,
+    "doorX": 2.0,
+    "doorZ": 36.5
+  },
+  {
+    "id": "CS5",
+    "label": "CS5",
+    "floor": 1,
+    "x0": 6,
+    "x1": 14,
+    "z0": 36.5,
+    "z1": 43.8,
+    "doorX": 10.0,
+    "doorZ": 36.5
+  },
+  {
+    "id": "Office",
+    "label": "Office",
+    "floor": 2,
+    "x0": -10,
+    "x1": -6,
+    "z0": 26.2,
+    "z1": 33.5,
+    "doorX": -8.0,
+    "doorZ": 33.5
+  },
+  {
+    "id": "PrincipalOffice",
+    "label": "Principal Office",
+    "floor": 2,
+    "x0": -6,
+    "x1": -2,
+    "z0": 26.2,
+    "z1": 33.5,
+    "doorX": -4.0,
+    "doorZ": 33.5
+  },
+  {
+    "id": "SeminarHall",
+    "label": "Seminar Hall",
+    "floor": 2,
+    "x0": 1,
+    "x1": 14,
+    "z0": 26.2,
+    "z1": 33.5,
+    "doorX": 7.5,
+    "doorZ": 33.5
+  },
+  {
+    "id": "CSELab",
+    "label": "CSE Lab",
+    "floor": 2,
+    "x0": -10,
+    "x1": 6,
+    "z0": 36.5,
+    "z1": 43.8,
+    "doorX": -2.0,
+    "doorZ": 36.5
+  },
+  {
+    "id": "ExamCell",
+    "label": "Exam Cell",
+    "floor": 2,
+    "x0": 6,
+    "x1": 14,
+    "z0": 36.5,
+    "z1": 43.8,
+    "doorX": 10.0,
+    "doorZ": 36.5
+  }
+]

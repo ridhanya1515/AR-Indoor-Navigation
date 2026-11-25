@@ -1,0 +1,90 @@
+newmtl Ivory
+Kd 0.88 0.86 0.79
+Ka 0.1 0.1 0.1
+Ks 0 0 0
+d 1
+illum 2
+
+newmtl White
+Kd 0.96 0.95 0.9
+Ka 0.1 0.1 0.1
+Ks 0 0 0
+d 1
+illum 2
+
+newmtl Glass
+Kd 0.055 0.22 0.25
+Ka 0.1 0.1 0.1
+Ks 0 0 0
+d 1
+illum 2
+
+newmtl Recess
+Kd 0.07 0.085 0.085
+Ka 0.1 0.1 0.1
+Ks 0 0 0
+d 1
+illum 2
+
+newmtl Stone
+Kd 0.32 0.29 0.27
+Ka 0.1 0.1 0.1
+Ks 0 0 0
+d 1
+illum 2
+
+newmtl Terracotta
+Kd 0.48 0.23 0.17
+Ka 0.1 0.1 0.1
+Ks 0 0 0
+d 1
+illum 2
+
+newmtl Gold
+Kd 0.76 0.53 0.19
+Ka 0.1 0.1 0.1
+Ks 0 0 0
+d 1
+illum 2
+
+newmtl Turquoise
+Kd 0.08 0.57 0.52
+Ka 0.1 0.1 0.1
+Ks 0 0 0
+d 1
+illum 2
+
+newmtl Pink
+Kd 0.69 0.22 0.4
+Ka 0.1 0.1 0.1
+Ks 0 0 0
+d 1
+illum 2
+
+newmtl Blue
+Kd 0.13 0.39 0.61
+Ka 0.1 0.1 0.1
+Ks 0 0 0
+d 1
+illum 2
+
+newmtl Green
+Kd 0.25 0.48 0.2
+Ka 0.1 0.1 0.1
+Ks 0 0 0
+d 1
+illum 2
+
+newmtl Purple
+Kd 0.42 0.25 0.47
+Ka 0.1 0.1 0.1
+Ks 0 0 0
+d 1
+illum 2
+
+newmtl Solar
+Kd 0.09 0.18 0.29
+Ka 0.1 0.1 0.1
+Ks 0 0 0
+d 1
+illum 2

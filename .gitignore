@@ -1,0 +1,33 @@
+# Unity generated folders
+/[Uu]nity[Pp]roject/[Ll]ibrary/
+/[Uu]nity[Pp]roject/[Tt]emp/
+/[Uu]nity[Pp]roject/[Oo]bj/
+/[Uu]nity[Pp]roject/[Bb]uild/
+/[Uu]nity[Pp]roject/[Bb]uilds/
+/[Uu]nity[Pp]roject/[Ll]ogs/
+/[Uu]nity[Pp]roject/[Uu]ser[Ss]ettings/
+
+# Editor files
+.vs/
+.idea/
+*.csproj
+*.sln
+
+# Builds and private configuration
+*.apk
+*.aab
+*.keystore
+*.jks
+.env
+.env.*
+!.env.example
+secrets.h
+
+# Generated dependencies
+node_modules/
+__pycache__/
+# Local login database and private keys
+campus.db
+campus.db-*
+*.key
+*.pem

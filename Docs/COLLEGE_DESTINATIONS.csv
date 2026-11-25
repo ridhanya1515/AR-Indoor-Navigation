@@ -1,0 +1,46 @@
+ID,Destination,Floor,X,Y,Z
+Entrance,Entrance,0,0.0,0.0,-44.0
+OB_Poly_Entrance,PA Polytechnic / Entrance,0,-43.0,0.0,20.5
+OB_Poly_Room1,PA Polytechnic / Classroom 101,0,-45.04999923706055,0.0,24.799999237060547
+OB_Poly_Room2,PA Polytechnic / Classroom 102,0,-40.95000076293945,0.0,24.799999237060547
+OB_Poly_Room3,PA Polytechnic / Electrical Lab,0,-45.04999923706055,0.0,33.0
+OB_Poly_Room4,PA Polytechnic / Mechanical Lab,0,-40.95000076293945,0.0,33.0
+OB_Poly_Room5,PA Polytechnic / Staff Room,0,-45.04999923706055,0.0,41.20000076293945
+OB_Poly_Room6,PA Polytechnic / Department Office,0,-40.95000076293945,0.0,41.20000076293945
+OB_AI_Entrance,AI Block / Entrance,0,-46.0,0.0,-5.0
+OB_AI_Room1,AI Block / Classroom 101,0,-48.04999923706055,0.0,-8.133333206176758
+OB_AI_Room2,AI Block / Classroom 102,0,-43.95000076293945,0.0,-8.133333206176758
+OB_AI_Room3,AI Block / AI Lab,0,-48.04999923706055,0.0,-14.0
+OB_AI_Room4,AI Block / Data Science Lab,0,-43.95000076293945,0.0,-14.0
+OB_AI_Room5,AI Block / Project Lab,0,-48.04999923706055,0.0,-19.866666793823242
+OB_AI_Room6,AI Block / Staff Room,0,-43.95000076293945,0.0,-19.866666793823242
+OB_Edu_Entrance,PA Educational Institutions / Entrance,0,46.0,0.0,-6.5
+OB_Edu_Room1,PA Educational Institutions / Reception,0,43.95000076293945,0.0,-10.800000190734863
+OB_Edu_Room2,PA Educational Institutions / Admissions Office,0,48.04999923706055,0.0,-10.800000190734863
+OB_Edu_Room3,PA Educational Institutions / Accounts Office,0,43.95000076293945,0.0,-19.0
+OB_Edu_Room4,PA Educational Institutions / Administration Office,0,48.04999923706055,0.0,-19.0
+OB_Edu_Room5,PA Educational Institutions / Meeting Room,0,43.95000076293945,0.0,-27.200000762939453
+OB_Edu_Room6,PA Educational Institutions / Training Room,0,48.04999923706055,0.0,-27.200000762939453
+OB_Food_Entrance,Canteen / Entrance,0,-29.0,0.0,-7.0
+OB_Food_Room1,Canteen / Dining Room,0,-31.049999237060547,0.0,-10.0
+OB_Food_Room2,Canteen / Kitchen and Service,0,-26.950000762939453,0.0,-10.0
+OB_Chair_Entrance,Chairman Room / Entrance,0,18.0,0.0,-28.0
+OB_Chair_Room1,Chairman Room / Waiting Room,0,15.949999809265137,0.0,-32.0
+OB_Chair_Room2,Chairman Room / Chairman Office,0,20.049999237060547,0.0,-32.0
+OB_Rest_Entrance,Girls Restroom / Entrance,0,45.0,0.0,10.0
+OB_Rest_Room1,Girls Restroom / Wash Area,0,42.95000076293945,0.0,13.0
+OB_Rest_Room2,Girls Restroom / Toilet Cubicles,0,47.04999923706055,0.0,13.0
+ConferenceHall,Conference Hall,0,-8.5,0.0,37.349998474121094
+SeminarHall,Main Block Seminar Hall,0,-3.0,0.0,37.349998474121094
+AdmissionCell2,Admission Cell 2,0,0.5,0.0,37.349998474121094
+AdmissionCell1,Admission Cell 1,0,3.5,0.0,37.349998474121094
+Office,Office Room,0,6.75,0.0,37.349998474121094
+PrincipalOffice,Principal Office,0,10.25,0.0,37.349998474121094
+CS1,CSE Class 1,1,-9.5,3.5,37.349998474121094
+CS2,CSE Class 2,1,-4.5,3.5,37.349998474121094
+SHHOD,S & H HOD Cabin,1,1.0,3.5,37.349998474121094
+ExamCell,Exam Cell,1,8.0,3.5,37.349998474121094
+FOCLab,FOC Lab,2,-8.0,7.0,37.349998474121094
+StaffRoom,Staff Room,2,-2.0,7.0,37.349998474121094
+CS3,CSE Class 3,2,3.0,7.0,37.349998474121094
+CS4,CSE Class 4,2,9.0,7.0,37.349998474121094

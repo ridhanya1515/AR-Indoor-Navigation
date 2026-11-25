@@ -1,0 +1,245 @@
+{
+  "assumption": "Proposed ground-floor layouts. CSE and temple excluded.",
+  "rooms": [
+    {
+      "block": "PA Polytechnic",
+      "label": "Classroom 101",
+      "id": "OB_Poly_Room1",
+      "x": -51.1,
+      "z": 24.8,
+      "width": 13.8,
+      "depth": 8.200000000000001,
+      "floor": 0
+    },
+    {
+      "block": "PA Polytechnic",
+      "label": "Classroom 102",
+      "id": "OB_Poly_Room2",
+      "x": -34.9,
+      "z": 24.8,
+      "width": 13.8,
+      "depth": 8.200000000000001,
+      "floor": 0
+    },
+    {
+      "block": "PA Polytechnic",
+      "label": "Electrical Lab",
+      "id": "OB_Poly_Room3",
+      "x": -51.1,
+      "z": 33.0,
+      "width": 13.8,
+      "depth": 8.200000000000001,
+      "floor": 0
+    },
+    {
+      "block": "PA Polytechnic",
+      "label": "Mechanical Lab",
+      "id": "OB_Poly_Room4",
+      "x": -34.9,
+      "z": 33.0,
+      "width": 13.8,
+      "depth": 8.200000000000001,
+      "floor": 0
+    },
+    {
+      "block": "PA Polytechnic",
+      "label": "Staff Room",
+      "id": "OB_Poly_Room5",
+      "x": -51.1,
+      "z": 41.2,
+      "width": 13.8,
+      "depth": 8.200000000000001,
+      "floor": 0
+    },
+    {
+      "block": "PA Polytechnic",
+      "label": "Department Office",
+      "id": "OB_Poly_Room6",
+      "x": -34.9,
+      "z": 41.2,
+      "width": 13.8,
+      "depth": 8.200000000000001,
+      "floor": 0
+    },
+    {
+      "block": "AI Block",
+      "label": "Classroom 101",
+      "id": "OB_AI_Room1",
+      "x": -51.6,
+      "z": -8.133333333333333,
+      "width": 8.8,
+      "depth": 5.866666666666667,
+      "floor": 0
+    },
+    {
+      "block": "AI Block",
+      "label": "Classroom 102",
+      "id": "OB_AI_Room2",
+      "x": -40.4,
+      "z": -8.133333333333333,
+      "width": 8.8,
+      "depth": 5.866666666666667,
+      "floor": 0
+    },
+    {
+      "block": "AI Block",
+      "label": "AI Lab",
+      "id": "OB_AI_Room3",
+      "x": -51.6,
+      "z": -14.0,
+      "width": 8.8,
+      "depth": 5.866666666666667,
+      "floor": 0
+    },
+    {
+      "block": "AI Block",
+      "label": "Data Science Lab",
+      "id": "OB_AI_Room4",
+      "x": -40.4,
+      "z": -14.0,
+      "width": 8.8,
+      "depth": 5.866666666666667,
+      "floor": 0
+    },
+    {
+      "block": "AI Block",
+      "label": "Project Lab",
+      "id": "OB_AI_Room5",
+      "x": -51.6,
+      "z": -19.866666666666667,
+      "width": 8.8,
+      "depth": 5.866666666666667,
+      "floor": 0
+    },
+    {
+      "block": "AI Block",
+      "label": "Staff Room",
+      "id": "OB_AI_Room6",
+      "x": -40.4,
+      "z": -19.866666666666667,
+      "width": 8.8,
+      "depth": 5.866666666666667,
+      "floor": 0
+    },
+    {
+      "block": "PA Educational Institutions",
+      "label": "Reception",
+      "id": "OB_Edu_Room1",
+      "x": 40.9,
+      "z": -10.8,
+      "width": 7.8,
+      "depth": 8.200000000000001,
+      "floor": 0
+    },
+    {
+      "block": "PA Educational Institutions",
+      "label": "Admissions Office",
+      "id": "OB_Edu_Room2",
+      "x": 51.1,
+      "z": -10.8,
+      "width": 7.8,
+      "depth": 8.200000000000001,
+      "floor": 0
+    },
+    {
+      "block": "PA Educational Institutions",
+      "label": "Accounts Office",
+      "id": "OB_Edu_Room3",
+      "x": 40.9,
+      "z": -19.0,
+      "width": 7.8,
+      "depth": 8.200000000000001,
+      "floor": 0
+    },
+    {
+      "block": "PA Educational Institutions",
+      "label": "Administration Office",
+      "id": "OB_Edu_Room4",
+      "x": 51.1,
+      "z": -19.0,
+      "width": 7.8,
+      "depth": 8.200000000000001,
+      "floor": 0
+    },
+    {
+      "block": "PA Educational Institutions",
+      "label": "Meeting Room",
+      "id": "OB_Edu_Room5",
+      "x": 40.9,
+      "z": -27.200000000000003,
+      "width": 7.8,
+      "depth": 8.200000000000001,
+      "floor": 0
+    },
+    {
+      "block": "PA Educational Institutions",
+      "label": "Training Room",
+      "id": "OB_Edu_Room6",
+      "x": 51.1,
+      "z": -27.200000000000003,
+      "width": 7.8,
+      "depth": 8.200000000000001,
+      "floor": 0
+    },
+    {
+      "block": "Canteen",
+      "label": "Dining Room",
+      "id": "OB_Food_Room1",
+      "x": -31.6,
+      "z": -10.0,
+      "width": 2.8,
+      "depth": 5.6,
+      "floor": 0
+    },
+    {
+      "block": "Canteen",
+      "label": "Kitchen and Service",
+      "id": "OB_Food_Room2",
+      "x": -26.4,
+      "z": -10.0,
+      "width": 2.8,
+      "depth": 5.6,
+      "floor": 0
+    },
+    {
+      "block": "Chairman Room",
+      "label": "Waiting Room",
+      "id": "OB_Chair_Room1",
+      "x": 14.9,
+      "z": -32.0,
+      "width": 3.8,
+      "depth": 7.6,
+      "floor": 0
+    },
+    {
+      "block": "Chairman Room",
+      "label": "Chairman Office",
+      "id": "OB_Chair_Room2",
+      "x": 21.1,
+      "z": -32.0,
+      "width": 3.8,
+      "depth": 7.6,
+      "floor": 0
+    },
+    {
+      "block": "Girls Restroom",
+      "label": "Wash Area",
+      "id": "OB_Rest_Room1",
+      "x": 41.9,
+      "z": 13.0,
+      "width": 3.8,
+      "depth": 5.6,
+      "floor": 0
+    },
+    {
+      "block": "Girls Restroom",
+      "label": "Toilet Cubicles",
+      "id": "OB_Rest_Room2",
+      "x": 48.1,
+      "z": 13.0,
+      "width": 3.8,
+      "depth": 5.6,
+      "floor": 0
+    }
+  ]
+}
