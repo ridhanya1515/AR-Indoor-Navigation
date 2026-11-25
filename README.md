@@ -223,3 +223,11 @@ These are demonstration observations, not a formal performance benchmark.
 - Accessible-route preferences.
 - Stronger authentication and encrypted communication for deployment.
 - Measured evaluation of tracking accuracy and rerouting latency.
+
+## App Screenshots
+
+<img src="Docs/Screenshots/WhatsApp%20Image%202026-10-21%20at%2012.15.53%20AM.jpeg" alt="App demonstration screenshot 1" width="250">
+
+<img src="Docs/Screenshots/WhatsApp%20Image%202026-10-21%20at%2012.16.06%20AM.jpeg" alt="App demonstration screenshot 2" width="250">
+
+<img src="Docs/Screenshots/WhatsApp%20Image%202026-11-25%20at%2011.34.04%20AM.jpeg" alt="App demonstration screenshot 3" width="250">
